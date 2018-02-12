@@ -1,0 +1,246 @@
+{
+  "basic": [
+    {
+      "name": "Barrows",
+      "items": [
+        {
+          "name": "Dharok's helm",
+          "img": "images/Dharok's_helm.png"
+        },
+        {
+          "name": "Dharok's platebody",
+          "img": "images/Dharok's_platebody.png"
+        },
+        {
+          "name": "Dharok's platelegs",
+          "img": "images/Dharok's_platelegs.png"
+        },
+        {
+          "name": "Dharok's greataxe",
+          "img": "images/Dharok's_greataxe.png"
+        },
+        {
+          "name": "Torag's helm",
+          "img": "images/Torag's_helm.png"
+        },
+        {
+          "name": "Torag's platebody",
+          "img": "images/Torag's_platebody.png"
+        },
+        {
+          "name": "Torag's platelegs",
+          "img": "images/Torag's_platelegs.png"
+        },
+        {
+          "name": "Torag's hammers",
+          "img": "images/Torag's_hammers.png"
+        },
+        {
+          "name": "Ahrim's hood",
+          "img": "images/Ahrim's_hood.png"
+        },
+        {
+          "name": "Ahrim's robetop",
+          "img": "images/Ahrim's_robetop.png"
+        },
+        {
+          "name": "Ahrim's robeskirt",
+          "img": "images/Ahrim's_robeskirt.png"
+        },
+        {
+          "name": "Ahrim's staff",
+          "img": "images/Ahrim's_staff.png"
+        },
+        {
+          "name": "Verac's helm",
+          "img": "images/Verac's_helm.png"
+        },
+        {
+          "name": "Verac's brassard",
+          "img": "images/Verac's_brassard.png"
+        },
+        {
+          "name": "Verac's plateskirt",
+          "img": "images/Verac's_plateskirt.png"
+        },
+        {
+          "name": "Verac's flail",
+          "img": "images/Verac's_flail.png"
+        },
+        {
+          "name": "Guthan's helm",
+          "img": "images/Guthan's_helm.png"
+        },
+        {
+          "name": "Guthan's platebody",
+          "img": "images/Guthan's_platebody.png"
+        },
+        {
+          "name": "Guthan's chainskirt",
+          "img": "images/Guthan's_chainskirt.png"
+        },
+        {
+          "name": "Guthan's warspear",
+          "img": "images/Guthan's_warspear.png"
+        },
+        {
+          "name": "Karil's coif",
+          "img": "images/Karil's_coif.png"
+        },
+        {
+          "name": "Karil's leathertop",
+          "img": "images/Karil's_leathertop.png"
+        },
+        {
+          "name": "Karil's leatherskirt",
+          "img": "images/Karil's_leatherskirt.png"
+        },
+        {
+          "name": "Karil's crossbow",
+          "img": "images/Karil's_crossbow.png"
+        }
+      ]
+    },
+    {
+      "name": "Weapons",
+      "items": [
+        {
+          "name": "Dragon dagger",
+          "img": "images/Dragon_dagger.png"
+        },
+        {
+          "name": "Dragon longsword",
+          "img": "images/Dragon_longsword.png"
+        },
+        {
+          "name": "Dragon scimitar",
+          "img": "images/Dragon_scimitar.png"
+        },
+        {
+          "name": "Dragon mace",
+          "img": "images/Dragon_mace.png"
+        },
+        {
+          "name": "Dragon battleaxe",
+          "img": "images/Dragon_battleaxe.png"
+        },
+        {
+          "name": "Dragon halberd",
+          "img": "images/Dragon_halberd.png"
+        },
+        {
+          "name": "Dragon warhammer",
+          "img": "images/Dragon_warhammer.png"
+        },
+        {
+          "name": "Leaf-bladed sword",
+          "img": "images/Leaf-bladed_sword.png"
+        },
+        {
+          "name": "Leaf-bladed battleaxe",
+          "img": "images/Leaf-bladed_battleaxe.png"
+        },
+        {
+          "name": "Rune crossbow",
+          "img": "images/Rune_crossbow.png"
+        },
+        {
+          "name": "Magic shortbow",
+          "img": "images/Magic_shortbow.png"
+        },
+        {
+          "name": "Crystal bow",
+          "img": "images/Crystal_bow.png"
+        },
+        {
+          "name": "Iban's staff",
+          "img": "images/Iban's_staff.png"
+        },
+        {
+          "name": "Abyssal whip",
+          "img": "images/Abyssal_whip.png"
+        },
+        {
+          "name": "Abyssal dagger",
+          "img": "images/Abyssal_dagger.png"
+        },
+        {
+          "name": "Abyssal bludgeon",
+          "img": "images/Abyssal_bludgeon.png"
+        },
+        {
+          "name": "Trident of the seas",
+          "img": "images/Trident_of_the_seas.png"
+        },
+        {
+          "name": "Toxic blowpipe",
+          "img": "images/Toxic_blowpipe.png"
+        },
+        {
+          "name": "Dark bow",
+          "img": "images/Dark_bow.png"
+        },
+        {
+          "name": "Heavy ballista",
+          "img": "images/Heavy_ballista.png"
+        }
+      ]
+    },
+    {
+      "name": "Minigames",
+      "items": []
+    },
+    {
+      "name": "MTA",
+      "items": []
+    },
+    {
+      "name": "GWD",
+      "items": []
+    },
+    {
+      "name": "Skilling Gear",
+      "items": []
+    },
+    {
+      "name": "Jewellery",
+      "items": []
+    },
+    {
+      "name": "Diaries",
+      "items": []
+    },
+    {
+      "name": "Misc.",
+      "items": []
+    },
+    {
+      "name": "Pets",
+      "items": []
+    },
+    {
+      "name": "Clue Rewards",
+      "items": []
+    },
+    {
+      "name": "Easy Clue Items",
+      "items": []
+    },
+    {
+      "name": "Medium Clue Items",
+      "items": []
+    },
+    {
+      "name": "Hard Clue Items",
+      "items": []
+    },
+    {
+      "name": "Elite Clue Items",
+      "items": []
+    },
+    {
+      "name": "Master Clue Items",
+      "items": []
+    }
+  ]
+}

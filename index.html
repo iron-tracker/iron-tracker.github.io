@@ -1,0 +1,72 @@
+<html lang=en>
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="static/index.css">
+</head>
+
+<body>
+  <script src="static/hyperapp.js"></script>
+  <script src="static/hyperapp-html.js"></script>
+  <script>
+    const { h, app } = hyperapp
+    const { div, h1, img } = html
+
+    const state = {}
+    const actions = {}
+
+    const storage = window.localStorage
+
+    let stored = []
+
+    if (storage.getItem('items') !== null) {
+      stored = JSON.parse(storage.getItem('items'))
+    }
+
+    const store = (item) => {
+      let opacity = "1"
+      let idx = stored.indexOf(item.name)
+      if (idx >= 0) {
+        opacity = "0.35"
+        stored.splice(idx, 1)
+      } else {
+        stored.push(item.name)
+      }
+      let element = document.getElementById(item.name)
+      element.style.opacity = opacity
+      storage.setItem('items', JSON.stringify(stored))
+    }
+
+    const Task = (task) => {
+      return div({class: 'task'}, [
+        h1({class: 'task-title'}, task.name),
+        task.items.map(item => {
+          let element = div({
+            id: item.name,
+            class: 'task-item',
+            onclick: () => store(item)
+          }, [
+            img({src: item.img, alt: item.name, title: item.name})
+          ])
+          if (stored.includes(item.name)) {
+            element.props['style'] = {opacity: '1'}
+          }
+          return element
+        })
+      ])
+    }
+
+    fetch('data.json')
+      .then(data => data.json())
+      .then(tasks => {
+        const view = (state, actions) => (
+          div({class: 'task-container'}, [
+            tasks.basic.map(task => Task(task))
+          ])
+        )
+        app(state, actions, view, document.body)
+      })
+  </script>
+</body>
+
+</html>

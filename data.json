@@ -318,7 +318,72 @@
     },
     {
       "name": "Jewellery",
-      "items": []
+      "items": [
+        {
+          "name": "Ring of stone",
+          "img": "images/Ring_of_stone.png"
+        },
+        {
+          "name": "Berserker necklace",
+          "img": "images/Berserker_necklace.png"
+        },
+        {
+          "name": "Regen bracelet",
+          "img": "images/Regen_bracelet.png"
+        },
+        {
+          "name": "Amulet of fury",
+          "img": "images/Amulet_of_fury.png"
+        },
+        {
+          "name": "Ring of suffering",
+          "img": "images/Ring_of_suffering.png"
+        },
+        {
+          "name": "Necklace of anguish",
+          "img": "images/Necklace_of_anguish.png"
+        },
+        {
+          "name": "Tormented bracelet",
+          "img": "images/Tormented_bracelet.png"
+        },
+        {
+          "name": "Amulet of torture",
+          "img": "images/Amulet_of_torture.png"
+        },
+        {
+          "name": "Warrior ring",
+          "img": "images/Warrior_ring.png"
+        },
+        {
+          "name": "Berserker ring",
+          "img": "images/Berserker_ring.png"
+        },
+        {
+          "name": "Seers ring",
+          "img": "images/Seers_ring.png"
+        },
+        {
+          "name": "Archers ring",
+          "img": "images/Archers_ring.png"
+        },
+        {
+          "name": "Treasonous ring",
+          "img": "images/Treasonous_ring.png"
+        },
+        {
+          "name": "Tyrannical ring",
+          "img": "images/Tyrannical_ring.png"
+        },
+        {
+          "name": "Ring of the gods",
+          "img": "images/Ring_of_the_gods.png"
+        },
+        {
+          "name": "Amulet of glory",
+          "img": "images/Amulet_of_glory.png"
+        }
+      ]
     },
     {
       "name": "Diaries",

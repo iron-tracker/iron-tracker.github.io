@@ -395,7 +395,152 @@
     },
     {
       "name": "Pets",
-      "items": []
+      "items": [
+        {
+          "name": "Baby chinchompa",
+          "img": "images/Baby_chinchompa_(grey).png"
+        },
+        {
+          "name": "Beaver",
+          "img": "images/Beaver.png"
+        },
+        {
+          "name": "Giant squirrel",
+          "img": "images/Giant_squirrel.png"
+        },
+        {
+          "name": "Heron",
+          "img": "images/Heron.png"
+        },
+        {
+          "name": "Rift guardian",
+          "img": "images/Rift_guardian_(air).png"
+        },
+        {
+          "name": "Rock golem",
+          "img": "images/Rock_golem.png"
+        },
+        {
+          "name": "Rocky",
+          "img": "images/Rocky.png"
+        },
+        {
+          "name": "Tangleroot",
+          "img": "images/Tangleroot.png"
+        },
+        {
+          "name": "Pet dagannoth prime",
+          "img": "images/Pet_dagannoth_prime.png"
+        },
+        {
+          "name": "Pet dagannoth rex",
+          "img": "images/Pet_dagannoth_rex.png"
+        },
+        {
+          "name": "Pet dagannoth supreme",
+          "img": "images/Pet_dagannoth_supreme.png"
+        },
+        {
+          "name": "Pet dark core",
+          "img": "images/Pet_dark_core.png"
+        },
+        {
+          "name": "Abyssal orphan",
+          "img": "images/Abyssal_orphan.png"
+        },
+        {
+          "name": "Hellpuppy",
+          "img": "images/Hellpuppy.png"
+        },
+        {
+          "name": "Tzrek-jad",
+          "img": "images/Tzrek-jad.png"
+        },
+        {
+          "name": "Jal-nib-rek",
+          "img": "images/Jal-nib-rek.png"
+        },
+        {
+          "name": "Baby mole",
+          "img": "images/Baby_mole.png"
+        },
+        {
+          "name": "Kalphite princess",
+          "img": "images/Kalphite_princess.png"
+        },
+        {
+          "name": "Noon",
+          "img": "images/Noon.png"
+        },
+        {
+          "name": "Midnight",
+          "img": "images/Midnight.png"
+        },
+        {
+          "name": "Pet kraken",
+          "img": "images/Pet_kraken.png"
+        },
+        {
+          "name": "Pet smoke devil",
+          "img": "images/Pet_smoke_devil.png"
+        },
+        {
+          "name": "Pet snakeling",
+          "img": "images/Pet_snakeling.png"
+        },
+        {
+          "name": "Olmlet",
+          "img": "images/Olmlet.png"
+        },
+        {
+          "name": "Skotos",
+          "img": "images/Skotos.png"
+        },
+        {
+          "name": "Vorki",
+          "img": "images/Vorki.png"
+        },
+        {
+          "name": "Pet chaos elemental",
+          "img": "images/Pet_chaos_elemental.png"
+        },
+        {
+          "name": "Prince black dragon",
+          "img": "images/Prince_black_dragon.png"
+        },
+        {
+          "name": "Pet zilyana",
+          "img": "images/Pet_zilyana.png"
+        },
+        {
+          "name": "Pet kree'arra",
+          "img": "images/Pet_kree'arra.png"
+        },
+        {
+          "name": "Pet general graardor",
+          "img": "images/Pet_general_graardor.png"
+        },
+        {
+          "name": "Pet k'ril tsutsaroth",
+          "img": "images/Pet_k'ril_tsutsaroth.png"
+        },
+        {
+          "name": "Callisto cub",
+          "img": "images/Callisto_cub.png"
+        },
+        {
+          "name": "Scorpia's offsping",
+          "img": "images/Scorpia's_offspring.png"
+        },
+        {
+          "name": "Venenatis spiderling",
+          "img": "images/Venenatis_spiderling.png"
+        },
+        {
+          "name": "Vet'ion jr.",
+          "img": "images/Vet'ion_jr..png"
+        }
+      ]
     },
     {
       "name": "Clue Rewards",

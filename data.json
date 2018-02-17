@@ -429,6 +429,38 @@
           "img": "images/Tangleroot.png"
         },
         {
+          "name": "Bloodhound",
+          "img": "images/Bloodhound.png"
+        },
+        {
+          "name": "Cat",
+          "img": "images/Pet_cat_(black).png"
+        },
+        {
+          "name": "Hellcat",
+          "img": "images/Hell_cat.png"
+        },
+        {
+          "name": "Pet fish",
+          "img": "images/Fishbowl_(blue).png"
+        },
+        {
+          "name": "Chompy chick",
+          "img": "images/Chompy_chick.png"
+        },
+        {
+          "name": "Herbi",
+          "img": "images/Herbi.png"
+        },
+        {
+          "name": "Pet penance queen",
+          "img": "images/Pet_penance_queen.png"
+        },
+        {
+          "name": "Phoenix",
+          "img": "images/Phoenix.png"
+        },
+        {
           "name": "Pet dagannoth prime",
           "img": "images/Pet_dagannoth_prime.png"
         },

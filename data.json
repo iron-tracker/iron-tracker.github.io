@@ -374,7 +374,88 @@
     },
     {
       "name": "GWD",
-      "items": []
+      "items": [
+        {
+          "name": "Armadyl helmet",
+          "img": "images/Armadyl_helmet.png"
+        },
+        {
+          "name": "Armadyl chestplate",
+          "img": "images/Armadyl_chestplate.png"
+        },
+        {
+          "name": "Armadyl chainskirt",
+          "img": "images/Armadyl_chainskirt.png"
+        },
+        {
+          "name": "Armadyl hilt",
+          "img": "images/Armadyl_hilt.png"
+        },
+        {
+          "name": "Armadyl crossbow",
+          "img": "images/Armadyl_crossbow.png"
+        },
+        {
+          "name": "Saradomin's light",
+          "img": "images/Saradomin's_light.png"
+        },
+        {
+          "name": "Saradomin sword",
+          "img": "images/Saradomin_sword.png"
+        },
+        {
+          "name": "Saradomin hilt",
+          "img": "images/Saradomin_hilt.png"
+        },
+        {
+          "name": "Bandos chestplate",
+          "img": "images/Bandos_chestplate.png"
+        },
+        {
+          "name": "Bandos tassets",
+          "img": "images/Bandos_tassets.png"
+        },
+        {
+          "name": "Bandos boots",
+          "img": "images/Bandos_boots.png"
+        },
+        {
+          "name": "Bandos hilt",
+          "img": "images/Bandos_hilt.png"
+        },
+        {
+          "name": "Steam battlestaff",
+          "img": "images/Steam_battlestaff.png"
+        },
+        {
+          "name": "Zamorakian spear",
+          "img": "images/Zamorakian_spear.png"
+        },
+        {
+          "name": "Staff of the dead",
+          "img": "images/Staff_of_the_dead.png"
+        },
+        {
+          "name": "Zamorak hilt",
+          "img": "images/Zamorak_hilt.png"
+        },
+        {
+          "name": "Godsword shard 1",
+          "img": "images/Godsword_shard_1.png"
+        },
+        {
+          "name": "Godsword shard 2",
+          "img": "images/Godsword_shard_2.png"
+        },
+        {
+          "name": "Godsword shard 3",
+          "img": "images/Godsword_shard_3.png"
+        },
+        {
+          "name": "Dragon boots",
+          "img": "images/Dragon_boots.png"
+        }
+      ]
     },
     {
       "name": "Skilling Gear",

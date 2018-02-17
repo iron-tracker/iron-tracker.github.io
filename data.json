@@ -188,7 +188,152 @@
     },
     {
       "name": "Minigames",
-      "items": []
+      "items": [
+        {
+          "name": "Gold decorative helm",
+          "img": "images/Gold_decorative_helm.png"
+        },
+        {
+          "name": "Gold decorative body",
+          "img": "images/Gold_decorative_body.png"
+        },
+        {
+          "name": "Gold decorative legs",
+          "img": "images/Gold_decorative_legs.png"
+        },
+        {
+          "name": "Gold decorative shield",
+          "img": "images/Gold_decorative_shield.png"
+        },
+        {
+          "name": "Gold decorative sword",
+          "img": "images/Gold_decorative_sword.png"
+        },
+        {
+          "name": "Void knight top",
+          "img": "images/Void_knight_top.png"
+        },
+        {
+          "name": "Void knight robe",
+          "img": "images/Void_knight_robe.png"
+        },
+        {
+          "name": "Void knight gloves",
+          "img": "images/Void_knight_gloves.png"
+        },
+        {
+          "name": "Void seal",
+          "img": "images/Void_seal.png"
+        },
+        {
+          "name": "Elite void top",
+          "img": "images/Elite_void_top.png"
+        },
+        {
+          "name": "Elite void robe",
+          "img": "images/Elite_void_robe.png"
+        },
+        {
+          "name": "Void knight mace",
+          "img": "images/Void_knight_mace.png"
+        },
+        {
+          "name": "Void melee helm",
+          "img": "images/Void_melee_helm.png"
+        },
+        {
+          "name": "Void mage helm",
+          "img": "images/Void_mage_helm.png"
+        },
+        {
+          "name": "Void ranger helm",
+          "img": "images/Void_ranger_helm.png"
+        },
+        {
+          "name": "Champion's cape",
+          "img": "images/Champion's_cape.png"
+        },
+        {
+          "name": "Guthix staff",
+          "img": "images/Guthix_staff.png"
+        },
+        {
+          "name": "Guthix cape",
+          "img": "images/Guthix_cape.png"
+        },
+        {
+          "name": "Imbued guthix cape",
+          "img": "images/Imbued_guthix_cape.png"
+        },
+        {
+          "name": "Claws of Guthix",
+          "img": "images/Claws_of_Guthix.png"
+        },
+        {
+          "name": "Saradomin staff",
+          "img": "images/Saradomin_staff.png"
+        },
+        {
+          "name": "Saradomin cape",
+          "img": "images/Saradomin_cape.png"
+        },
+        {
+          "name": "Imbued saradomin cape",
+          "img": "images/Imbued_saradomin_cape.png"
+        },
+        {
+          "name": "Saradomin Strike",
+          "img": "images/Saradomin_Strike.png"
+        },
+        {
+          "name": "Zamorak staff",
+          "img": "images/Zamorak_staff.png"
+        },
+        {
+          "name": "Zamorak cape",
+          "img": "images/Zamorak_cape.png"
+        },
+        {
+          "name": "Imbued zamorak cape",
+          "img": "images/Imbued_zamorak_cape.png"
+        },
+        {
+          "name": "Flames of Zamorak",
+          "img": "images/Flames_of_Zamorak.png"
+        },
+        {
+          "name": "Fighter hat",
+          "img": "images/Fighter_hat.png"
+        },
+        {
+          "name": "Fighter torso",
+          "img": "images/Fighter_torso.png"
+        },
+        {
+          "name": "Penance skirt",
+          "img": "images/Penance_skirt.png"
+        },
+        {
+          "name": "Penance gloves",
+          "img": "images/Penance_gloves.png"
+        },
+        {
+          "name": "Pirate's hook",
+          "img": "images/Pirate's_hook.png"
+        },
+        {
+          "name": "Grand seed pod",
+          "img": "images/Grand_seed_pod.png"
+        },
+        {
+          "name": "Gnome goggles",
+          "img": "images/Gnome_goggles.png"
+        },
+        {
+          "name": "Gnome scarf",
+          "img": "images/Gnome_scarf.png"
+        }
+      ]
     },
     {
       "name": "MTA",

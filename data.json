@@ -192,7 +192,40 @@
     },
     {
       "name": "MTA",
-      "items": []
+      "items": [
+        {
+          "name": "Infinity hat",
+          "img": "images/Infinity_hat.png"
+        },
+        {
+          "name": "Infinity top",
+          "img": "images/Infinity_top.png"
+        },
+        {
+          "name": "Infinity bottoms",
+          "img": "images/Infinity_bottoms.png"
+        },
+        {
+          "name": "Master wand",
+          "img": "images/Master_wand.png"
+        },
+        {
+          "name": "Infinity gloves",
+          "img": "images/Infinity_gloves.png"
+        },
+        {
+          "name": "Infinity boots",
+          "img": "images/Infinity_boots.png"
+        },
+        {
+          "name": "Mage's book",
+          "img": "images/Mage's_book.png"
+        },
+        {
+          "name": "Bones to Peaches",
+          "img": "images/Bones_to_peaches.png"
+        }
+      ]
     },
     {
       "name": "GWD",
@@ -200,7 +233,88 @@
     },
     {
       "name": "Skilling Gear",
-      "items": []
+      "items": [
+        {
+          "name": "Lumberjack hat",
+          "img": "images/Lumberjack_hat.png"
+        },
+        {
+          "name": "Lumberjack top",
+          "img": "images/Lumberjack_top.png"
+        },
+        {
+          "name": "Lumberjack legs",
+          "img": "images/Lumberjack_legs.png"
+        },
+        {
+          "name": "Lumberjack boots",
+          "img": "images/Lumberjack_boots.png"
+        },
+        {
+          "name": "Pyromancer hood",
+          "img": "images/Pyromancer_hood.png"
+        },
+        {
+          "name": "Pyromancer garb",
+          "img": "images/Pyromancer_garb.png"
+        },
+        {
+          "name": "Pyromancer robe",
+          "img": "images/Pyromancer_robe.png"
+        },
+        {
+          "name": "Pyromancer boots",
+          "img": "images/Pyromancer_boots.png"
+        },
+        {
+          "name": "Angler hat",
+          "img": "images/Angler_hat.png"
+        },
+        {
+          "name": "Angler top",
+          "img": "images/Angler_top.png"
+        },
+        {
+          "name": "Angler waders",
+          "img": "images/Angler_waders.png"
+        },
+        {
+          "name": "Angler boots",
+          "img": "images/Angler_boots.png"
+        },
+        {
+          "name": "Farmer's strawhat",
+          "img": "images/Farmer's_strawhat.png"
+        },
+        {
+          "name": "Farmer's jacket",
+          "img": "images/Farmer's_jacket.png"
+        },
+        {
+          "name": "Farmer's boro trousers",
+          "img": "images/Farmer's_boro_trousers.png"
+        },
+        {
+          "name": "Farmer's boots",
+          "img": "images/Farmer's_boots.png"
+        },
+        {
+          "name": "Prospector helmet",
+          "img": "images/Prospector_helmet.png"
+        },
+        {
+          "name": "Prospector jacket",
+          "img": "images/Prospector_jacket.png"
+        },
+        {
+          "name": "Prospector legs",
+          "img": "images/Prospector_legs.png"
+        },
+        {
+          "name": "Prospector boots",
+          "img": "images/Prospector_boots.png"
+        }
+      ]
     },
     {
       "name": "Jewellery",

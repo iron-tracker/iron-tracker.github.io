@@ -192,7 +192,40 @@
     },
     {
       "name": "MTA",
-      "items": []
+      "items": [
+        {
+          "name": "Infinity hat",
+          "img": "images/Infinity_hat.png"
+        },
+        {
+          "name": "Infinity top",
+          "img": "images/Infinity_top.png"
+        },
+        {
+          "name": "Infinity bottoms",
+          "img": "images/Infinity_bottoms.png"
+        },
+        {
+          "name": "Master wand",
+          "img": "images/Master_wand.png"
+        },
+        {
+          "name": "Infinity gloves",
+          "img": "images/Infinity_gloves.png"
+        },
+        {
+          "name": "Infinity boots",
+          "img": "images/Infinity_boots.png"
+        },
+        {
+          "name": "Mage's book",
+          "img": "images/Mage's_book.png"
+        },
+        {
+          "name": "Bones to Peaches",
+          "img": "images/Bones_to_peaches.png"
+        }
+      ]
     },
     {
       "name": "GWD",
